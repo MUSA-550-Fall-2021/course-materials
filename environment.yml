@@ -65,10 +65,10 @@ dependencies:
   - rioxarray=0.7.0
   - missingno=0.4.2
   - pip:
-      - us=2.0.2
-      - carto2gpd=1.0.7
-      - esri2gpd=1.0.7
-      - osm2gpd=1.0.1
-      - webdriver_manager=3.4.2
-      - jupyter-panel-proxy=0.1.0
-      - jupyter-server-proxy=3.1.0
+      - us==2.0.2
+      - carto2gpd==1.0.7
+      - esri2gpd==1.0.7
+      - osm2gpd==1.0.1
+      - webdriver_manager==3.4.2
+      - jupyter-panel-proxy==0.1.0
+      - jupyter-server-proxy==3.1.0
