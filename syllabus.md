@@ -1,6 +1,6 @@
 # MUSA 550 - Geospatial Data Science in Python<br>University of Pennsylvania, Stuart Weitzman School of Design
 
-MUSA 550 will be held remotely during fall 2021. Information regarding
+MUSA 550 will be held on campus during fall 2021. Information regarding
 lectures, office hours, assignments, and grading can be found below.
 
 ## Class
