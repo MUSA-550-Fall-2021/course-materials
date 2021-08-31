@@ -78,7 +78,7 @@ required. Late homework will be accepted but penalized.
 This course relies on use of Python and various related packages and for
 geospatial topics. All software is open-source and freely available. The course
 will require a working installation of Python on your local computer. See the
-[Software Setup Guide](https://musa-550-fall-2021.github.io/setup) for
+[Software Setup Guide](https://musa-550-fall-2021.github.io/resources/setup/) for
 instructions on how to setup your computer for use in this course.
 
 ## Policies
