@@ -15,9 +15,8 @@ lectures, office hours, assignments, and grading can be found below.
 
 ## Office Hours
 
-Office hours will held remotely via Zoom and will be by appointment — you should be able to
-sign up for 1 (or more) 15-minute time slot via the Canvas calendar. Zoom
-information for each session is available in the meeting details.
+Office hours will be by appointment — you should be able to
+sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
