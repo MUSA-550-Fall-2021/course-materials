@@ -6,7 +6,7 @@ lectures, office hours, assignments, and grading can be found below.
 ## Class
 
 - Monday & Wednesday, 7:00 PM to 8:30 PM
-- Fisher-Bennett Hall, Room 201
+- [Annenberg Hall, Room 111](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=anns-111)
 
 ## Contact Info
 
