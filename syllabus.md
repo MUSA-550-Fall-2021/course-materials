@@ -20,11 +20,13 @@ sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
-TBD
+- Monday & Wednesday, 6-7pm
+- In 111 Annenberg Hall, or remotely via Zoom
 
 **Stella:**
 
-TBD
+- Monday from 12:30 pm - 2 pm
+- Remote, via Zoom (link in Canvas calendar invite)
 
 ## Course Websites
 
