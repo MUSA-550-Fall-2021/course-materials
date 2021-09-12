@@ -20,8 +20,7 @@ sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
-- Monday & Wednesday, 6-7pm
-- In 111 Annenberg Hall, or remotely via Zoom
+- TBD
 
 **Stella:**
 
