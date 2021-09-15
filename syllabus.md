@@ -20,7 +20,8 @@ sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
-- TBD
+- Tuesday from 6pm - 8pm
+- Remote, via Zoom (link in Canvas calendar invite)
 
 **Stella:**
 
