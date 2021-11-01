@@ -21,7 +21,7 @@ dependencies:
   - seaborn=0.11.2
   - vega_datasets=0.9.0
   - vega=3.5.0
-  - geopandas=0.9.0
+  - geopandas=0.10.2
   - shapely=1.7.1
   - descartes=1.1.0
   - pyepsg=0.4.0
