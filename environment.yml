@@ -67,6 +67,7 @@ dependencies:
   - rio-toa=0.3.0
   - rioxarray=0.7.0
   - missingno=0.4.2
+  - kneed=0.7.0
   - pip:
       - us==2.0.2
       - carto2gpd==1.0.11
