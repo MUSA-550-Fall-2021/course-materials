@@ -1,6 +1,7 @@
 name: musa-550-fall-2021
 channels:
   - conda-forge
+  - pyviz
   - defaults
 
 dependencies:
@@ -28,14 +29,14 @@ dependencies:
   - cartopy=0.19.0.post1
   - mapclassify=2.4.3
   - contextily=1.1.0
-  - bokeh=2.3.3
+  - bokeh=2.4.2
   - hvplot=0.7.3
   - holoviews=1.14.5
   - geoviews=1.9.1
   - xarray=0.19.0
   - datashader=0.13.0
   - param=1.11.1
-  - panel=0.12.1
+  - panel=0.12.5
   - rasterio=1.2.6
   - rasterstats=0.15.0
   - earthpy=0.9.2
