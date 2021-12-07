@@ -61,7 +61,7 @@ dependencies:
   - scikit-learn=0.24.2
   - flask=2.0.1
   - dash=1.21.0
-  - tweepy=3.10.0
+  - tweepy=4.4.0
   - textblob=0.15.3
   - nltk=3.6.2
   - rio-toa=0.3.0
